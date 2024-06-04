@@ -1,5 +1,9 @@
 # Dates-Library
+![NPM Version](https://img.shields.io/npm/v/%40mfx2%2Fdates-library-util)
+![NPM License](https://img.shields.io/npm/l/%40mfx2%2Fdates-library-util)
 ![GitHub last commit](https://img.shields.io/github/last-commit/FrazierMark/ACS-3310-Dates-Library)
+![GitHub repo size](https://img.shields.io/github/repo-size/FrazierMark/ACS-3310-Dates-Library)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/FrazierMark/ACS-3310-Dates-Library)
 
 
 This library provides a simple way to manipulate and format dates in JavaScript applications. With this library, you can easily create, format, and perform calculations with dates in various formats.
