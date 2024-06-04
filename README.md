@@ -1,4 +1,6 @@
 # Dates-Library
+![GitHub last commit](https://img.shields.io/github/last-commit/FrazierMark/ACS-3310-Dates-Library)
+
 
 This library provides a simple way to manipulate and format dates in JavaScript applications. With this library, you can easily create, format, and perform calculations with dates in various formats.
 
@@ -14,13 +16,13 @@ npm install @mfx2/dates-library-util
 ```const date = new DateManipulator(2025, 6, 3, 3, 4, 5)```
 
 ### Formatting a Date
-```console.log(date.format());          // "2025 June 3"```
-```console.log(d.format('y/m/d'))       // 17/Jan/2```
-```console.log(d.format('H:I:S'))       // 03:04:05```
-```console.log(d.format('h:i:s'))       // 3:4:5```
+```console.log(date.format());     // "2025 June 3"```
+```console.log(d.format('y/m/d'))  // 17/Jan/2```
+```console.log(d.format('H:I:S'))  // 03:04:05```
+```console.log(d.format('h:i:s'))  // 3:4:5```
 
 ### Getting the Time Difference
-```console.log(date.when());            // "Today"```
+```console.log(date.when());       // "Today"```
 
 
 ### API Documentation
